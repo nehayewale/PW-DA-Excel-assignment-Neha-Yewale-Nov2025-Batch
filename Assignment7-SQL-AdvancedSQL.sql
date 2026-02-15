@@ -71,8 +71,6 @@ END $$
 DELIMITER ;
 CALL GetProductsByCategory('Electronics');
 
-CALL GetProductsByCategory('Electronics');
-
 -- Q10. Create an AFTER DELETE trigger on the Products table that archives deleted product rows into a new
 -- table ProductArchive. The archive should store ProductID, ProductName, Category, Price, and DeletedAt
 -- timestamp.
