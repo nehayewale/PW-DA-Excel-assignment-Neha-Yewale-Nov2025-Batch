@@ -1,0 +1,101 @@
+Property_ID,Property_Name,City,Location_Details,Price,Area_sqft,Bedrooms,Bathrooms,Owner_Name,Contact
+101,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+102,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+103,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+104,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+105,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+106,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+107,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+108,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+109,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+110,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+110,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+112,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+113,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+114,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+115,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+116,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+117,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+118,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+119,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+120,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+121,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+122,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+123,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+134,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+125,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+126,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+127,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+128,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+129,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+130,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+131,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+132,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+133,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+134,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+135,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+136,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+137,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+138,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+139,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+140,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+141,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+142,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+143,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+144,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+145,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+146,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+147,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+148,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+149,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+150,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+151,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+152,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+153,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+154,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+155,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+156,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+157,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+158,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+159,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+160,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+161,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+162,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+163,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+164,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+165,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+166,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+167,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+168,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+169,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+170,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+171,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+172,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+173,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+174,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+175,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+176,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+177,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+178,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+185,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+180,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+181,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+182,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+183,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+184,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+185,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+186,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+187,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+188,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+189,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+190,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
+191,Green Heights,Mumbai,Andheri East - Mumbai,12500000,850,2,2,Rahul Mehta,9876543210
+192,Sunrise Apartments,Mumbai,Borivali West - Mumbai,9800000,720,2,2,Anita Sharma,9898989898
+193,Lake View Residency,Bangalore,Whitefield - Bangalore,8500000,900,3,2,Ramesh Kumar,9123456789
+194,City Center Homes,Delhi,Saket - Delhi,11000000,880,3,2,Neha Verma,9988776655
+195,Elite Towers,Pune,Hinjewadi - Pune,,950,3,3,Amit Joshi,9090909090
+196,Palm Residency,Bangalore,Electronic City - Bangalore,7200000,800,2,2,,9345678901
+197,Urban Nest,Hyderabad,Gachibowli - Hyderabad,6700000,,2,2,Suresh Reddy,9012345678
+198,Silver Oaks,Chennai,Velachery - Chennai,7900000,870,3,2,Divya Iyer,9556677889
+199,Skyline Villas,Pune,Baner - Pune,13500000,1200,4,3,Manoj Patil,9887766554
+200,Metro Homes,Delhi,Dwarka - Delhi,6500000,700,2,2,Raj Singh,
